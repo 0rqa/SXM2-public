@@ -34,7 +34,7 @@
 
 * Interesting thing to point out is that the pentium 3 mobile uses the same connector as SXM2 .
 
-![Image](https://github.com/0rqa/SXM2-public/blob/main/gallery/intel_pentium_iii_mobile_pmm80002201aa_pinkie.jpg) <!-- credit to : https://www.chipdb.org/img-intel-pentium-iii-mobile-pmm80002201aa-7431.htm -->
+![Image](https://github.com/0rqa/SXM2-public/blob/main/gallery/intel_pentium_iii_mobile_pmm80002201aa_pinkie.jpg) <!-- credit to : https://www.chipdb.org/img-intel-pentium-iii-mobile-pmm80002201aa-7431.html, props to a-little-wifi for pointing this out :3 -->
 
 
 

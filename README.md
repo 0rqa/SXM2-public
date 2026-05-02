@@ -1,14 +1,34 @@
 # SXM2-public
 
-the mezzine connector doughterboard
+<br>
 
-* 84740-102LF
+>[!Caution]
+> Disclaimer / Reverse Engineering Notice: <br> <br>
+> All information, diagrams, and schematics in this repository were obtained through independent reverse engineering, measurement, and observation. 
+> No proprietary, confidential, or leaked documents were used directly to create this content. 
+> All pin assignments, signal mappings, and layouts represent independent analysis and do not reproduce any proprietary documentation. <br> <br>
+> This project is intended for educational, research, and interoperability purposes only. 
+> Commercial use of patented or proprietary technologies is not authorized by this notice.
 
-the sxm2 gpu module side 
+<br>
 
-* 74221-001LF - 4mm - https://www.amphenol-cs.com/product/74221001lf.html - sxm2 gpu side - female
-* 74388-001LF - 6mm - https://www.amphenol-cs.com/product/74388001lf.html - sxm2 gpu side - female
-* 74390-201LF - 8mm - https://www.amphenol-cs.com/product/74388001lf.html - sxm2 gpu side - female
+>[!NOTE]
+> This repo is WIP, All information in this repository is provided in good faith but may contain inaccuracies.
+
+
+
+---
+
+
+* The mezzine connector doughterboard
+
+  * 84740-102LF
+
+* The sxm2 gpu module side 
+
+  * 74221-001LF - 4mm - https://www.amphenol-cs.com/product/74221001lf.html - sxm2 gpu side - female
+  * 74388-001LF - 6mm - https://www.amphenol-cs.com/product/74388001lf.html - sxm2 gpu side - female
+  * 74390-201LF - 8mm - https://www.amphenol-cs.com/product/74388001lf.html - sxm2 gpu side - female
 
 ---
 
